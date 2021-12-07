@@ -7,6 +7,18 @@
 		<OutputType>Library</OutputType>
 				
 		<GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+				
+		<Authors>James Baird</Authors>
+				
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+				
+		<RepositoryType>git</RepositoryType>
+				
+		<RepositoryUrl>https://github.com/bairdj/DataDictionaryGenerator</RepositoryUrl>
+				
+		<PackageProjectUrl>https://github.com/bairdj/DataDictionaryGenerator</PackageProjectUrl>
+				
+		<Description>Create data dictionary from EF Core context</Description>
 	</PropertyGroup>
 
 	<ItemGroup>
