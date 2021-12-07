@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataDictionaryGenerator", "DataDictionaryGenerator\DataDictionaryGenerator.csproj", "{43622787-EDE1-4441-B792-593013DD394D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataDictionaryGeneratorTest", "DataDictionaryGeneratorTest\DataDictionaryGeneratorTest.csproj", "{13F57264-98E5-4088-9744-B666825F3E07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43622787-EDE1-4441-B792-593013DD394D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43622787-EDE1-4441-B792-593013DD394D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43622787-EDE1-4441-B792-593013DD394D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43622787-EDE1-4441-B792-593013DD394D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13F57264-98E5-4088-9744-B666825F3E07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F57264-98E5-4088-9744-B666825F3E07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F57264-98E5-4088-9744-B666825F3E07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F57264-98E5-4088-9744-B666825F3E07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {193C13D9-B164-4AB3-A63D-F02DD4623225}
+	EndGlobalSection
+EndGlobal
